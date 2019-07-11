@@ -7,8 +7,8 @@
 SimpleITK, pytorch, scikit-image, opencv, DenseInferenceWrapper
 
 ### Running the tests
-
 python hist_match.py
 python predict.py
 python postprocessing.py
 
+All this repo has been moved to *[3DPavementCell](https://github.com/UCSB-VRL/3DPavementCell)
